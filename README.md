@@ -3,7 +3,7 @@ data\_stream --ai数据更新线下流程
 ====
 # 功能介绍
   定期从线上拉取全量数据文件,并同步到mysql中，计算出diff
-  ![image](git@github.com:pangdaxing/data_stream.git/raw/master/images/数据流_new.png)
+  ![image](https://github.com/pangdaxing/data_stream.git/raw/master/images/数据流_new.png)
 # useage:
   bash runner.sh module\_name cmd\_name
   eg:sh runner.sh decode diff\_num
